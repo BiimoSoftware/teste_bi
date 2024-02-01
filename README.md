@@ -4,7 +4,9 @@
 ### Objetivo
 - O objetivo do teste é tratar e montar uma dasboard no looker studio utilizando esse dataset.
 Imagine que o cliente é um grande empresario no setor da construção civil e quer construir diversos imoveis para alugar no AirBnb, traga os melhores número para esse cliente.
-Utilize sua criatividade, pense no storyteling de dados.
+
+
+Utilize sua criatividade, cuidado com o visual da dashboard e pense no storyteling de dados.
 
 [Dataset](https://www.kaggle.com/datasets/deeplearner09/airbnb-listings/code)
 
